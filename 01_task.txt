@@ -7,5 +7,5 @@ var obj2 = {age:5, name:"Person1"};
 => we can use _.isEqual(obj1,obj2) which returns boolen value if they are equal irrespective of its order. 
    But it requires lodash Library 
 
-=> If both object's order are same then we can convert the object to string and use == or === operator.
+=> If both object's order are same then we can convert the object to string and use == or === operator  or use loop.
     JSON.stringify(obj1)===JSON.stringify(obj2)
