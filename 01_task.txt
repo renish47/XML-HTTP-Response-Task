@@ -1,4 +1,4 @@
-how to compare two json objects without order?
+How to compare two json objects without order?
 
 var obj1 = {name:"Person1", age:5};
 var obj2 = {age:5, name:"Person1"};
